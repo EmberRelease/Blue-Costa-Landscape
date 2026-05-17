@@ -4,3 +4,32 @@
 !.dev.vars.example
 .env*
 !.env.example
+
+# Working files - not part of production site
+*.bak
+preview.html
+preview_v*.html
+contact_sheet*.png
+photo_contact_sheet.png
+sheet*.png
+
+# Screenshots from build smoke tests
+final_*.png
+index_teaser_*.png
+portfolio_desktop*.png
+portfolio_mobile.png
+portfolio_lightbox.png
+
+# Source photos (originals + archives) — not served by site
+photos/gallery/
+photos/gallery_patio/
+photos/gallery_retaining/
+photos/gallery_stairs/
+photos/gallery_veneer/
+photos/gallery_walkway/
+photos/archive_*/
+photos/process/
+
+# Keep
+!photos/optimized/
+!photos/_manifest.json

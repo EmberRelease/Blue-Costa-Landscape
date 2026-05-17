@@ -1,0 +1,244 @@
+{
+  "photos": [
+    {
+      "original": "01729fd3-c79b-427e-99d9-71a19a6b445c.jpg",
+      "new_filename": "pool-patio-01-reflection.jpg",
+      "category": "pool-patio",
+      "folder": "gallery"
+    },
+    {
+      "original": "394fdf3e-68d9-404e-8bf9-08e50b012273.jpg",
+      "new_filename": "pool-patio-02.jpg",
+      "category": "pool-patio",
+      "folder": "gallery"
+    },
+    {
+      "original": "53249715-00f0-46e0-b2f0-f7f3e281b0c5.jpg",
+      "new_filename": "pool-patio-03.jpg",
+      "category": "pool-patio",
+      "folder": "gallery"
+    },
+    {
+      "original": "IMG_2469.jpg",
+      "new_filename": "pool-patio-04.jpg",
+      "category": "pool-patio",
+      "folder": "gallery"
+    },
+    {
+      "original": "IMG_2470.jpg",
+      "new_filename": "pool-patio-05.jpg",
+      "category": "pool-patio",
+      "folder": "gallery"
+    },
+    {
+      "original": "a8adf28c-7714-4e80-8e4f-e25c786c5943.jpg",
+      "new_filename": "pool-patio-06-detail.jpg",
+      "category": "pool-patio",
+      "folder": "gallery"
+    },
+    {
+      "original": "c7d562b9-8daa-4aa5-908a-b2b3212bca35.jpg",
+      "new_filename": "process-01-mid-build.jpg",
+      "category": "process",
+      "folder": "process"
+    },
+    {
+      "original": "dcce283c-b865-4be8-ba3e-e8077d693687.jpg",
+      "new_filename": "pool-patio-07-curved.jpg",
+      "category": "pool-patio",
+      "folder": "gallery"
+    },
+    {
+      "original": "e11966e4-1c84-4d96-9f5c-deb7d8ea72df.jpg",
+      "new_filename": "pool-patio-08.jpg",
+      "category": "pool-patio",
+      "folder": "gallery"
+    },
+    {
+      "original": "eccb235c-60a8-4a50-92b9-273a6854f6dc.jpg",
+      "new_filename": "pool-patio-09-curved.jpg",
+      "category": "pool-patio",
+      "folder": "gallery"
+    },
+    {
+      "original": "178dcd1d-5f4f-4fed-b9de-9ee7907e8960.jpg",
+      "new_filename": "process-02-mid-build.jpg",
+      "folder": "process",
+      "batch": 2
+    },
+    {
+      "original": "1c0de59d-05d6-4b31-9ea9-08b39e267a98.jpg",
+      "new_filename": "process-03-mid-build.jpg",
+      "folder": "process",
+      "batch": 2
+    },
+    {
+      "original": "5555c470-b5fe-4478-a567-93a32c465732.jpg",
+      "new_filename": "process-04-mid-build.jpg",
+      "folder": "process",
+      "batch": 2
+    },
+    {
+      "original": "70630875-3b5e-46c8-9c7f-a33075529bb0.jpg",
+      "new_filename": "process-05-mid-build.jpg",
+      "folder": "process",
+      "batch": 2
+    },
+    {
+      "original": "739bd91d-6351-4abb-8da5-bea44c38dfaa.jpg",
+      "new_filename": "process-06-mid-build.jpg",
+      "folder": "process",
+      "batch": 2
+    },
+    {
+      "original": "807e045a-6c3a-4ef9-b8b2-475ab9ed4dac.jpg",
+      "new_filename": "process-07-mid-build.jpg",
+      "folder": "process",
+      "batch": 2
+    },
+    {
+      "original": "814563e5-b186-4aee-988c-743e0a1ffdd5.jpg",
+      "new_filename": "process-08-mid-build.jpg",
+      "folder": "process",
+      "batch": 2
+    },
+    {
+      "original": "PHOTO-2022-11-20-18-02-02.jpg",
+      "new_filename": "process-09-flagstone-build.jpg",
+      "folder": "process",
+      "batch": 2
+    },
+    {
+      "original": "9ee9888e-dca9-4821-8b17-b266dfe8fa97.jpg",
+      "new_filename": "walkway-01.jpg",
+      "folder": "gallery_walkway",
+      "batch": 2
+    },
+    {
+      "original": "a02f4c9f-6545-4e59-a836-d7f2b3f44851.jpg",
+      "new_filename": "walkway-02.jpg",
+      "folder": "gallery_walkway",
+      "batch": 2
+    },
+    {
+      "original": "17b5eba8-bf63-4d1d-8ba9-9135995eba78.jpg",
+      "new_filename": "patio-01.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "3ffe7429-cf8d-4006-832c-b70e4e3c0c75.jpg",
+      "new_filename": "patio-02-bluestone.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "5d7bb3a9-9873-435d-ae93-17d6624f4887.jpg",
+      "new_filename": "patio-03.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "97bd034d-a987-43a2-8b7d-017f1487dffc.jpg",
+      "new_filename": "patio-04.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "IMG_0004.JPG",
+      "new_filename": "patio-05-firepit.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "IMG_0006.JPG",
+      "new_filename": "patio-06-bluestone.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "IMG_0007.JPG",
+      "new_filename": "patio-07-firepit-wall.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "IMG_0029.JPG",
+      "new_filename": "patio-08-wall.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "IMG_1766.jpg",
+      "new_filename": "patio-09-stone-wall.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "IMG_1768.jpg",
+      "new_filename": "patio-10-firepit-wall.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "IMG_1924.jpg",
+      "new_filename": "patio-11-flagstone.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "IMG_3184.jpg",
+      "new_filename": "patio-12.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "IMG_3185.jpg",
+      "new_filename": "patio-13.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "a08747a0-017f-4578-932b-4e97b5feeaec.jpg",
+      "new_filename": "patio-14.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "c92eaa73-1fc7-4074-b387-8cf9143b6cb4.jpg",
+      "new_filename": "patio-15-bluestone-bowl.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "cda583ee-be68-4469-af71-e66dd7e0f5d8.jpg",
+      "new_filename": "patio-16-firepit-wall.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "d266b123-5ee3-48e5-b1c6-582a9b930055.jpg",
+      "new_filename": "patio-17-curved-edge.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "f0a4bbcb-18c5-4e37-8d3c-c7e61504334e.jpg",
+      "new_filename": "patio-18.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "f5dc2400-ae81-440b-b7d1-8f605adeda07.jpg",
+      "new_filename": "patio-19-firepit.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    },
+    {
+      "original": "IMG_0023.JPG",
+      "new_filename": "patio-20-light-paver.jpg",
+      "folder": "gallery_patio",
+      "batch": 2
+    }
+  ]
+}
