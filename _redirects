@@ -1,0 +1,4 @@
+# Cloudflare Pages redirects
+# Anchor links to portfolio.html from old #projects path (backward compat)
+/projects /portfolio.html 301
+/projects/* /portfolio.html 301
