@@ -1,0 +1,530 @@
+[
+  {
+    "id": "pool-patio-01-diving-rock",
+    "cat": "pool",
+    "alt": "Pool patio with diving rock",
+    "aspect": 0.5625,
+    "src": {
+      "w400": "pool-patio-01-diving-rock-400w.webp",
+      "w800": "pool-patio-01-diving-rock-800w.webp",
+      "w1600": "pool-patio-01-diving-rock-1600w.webp",
+      "jpg": "pool-patio-01-diving-rock-1600w.jpg"
+    }
+  },
+  {
+    "id": "pool-patio-02",
+    "cat": "pool",
+    "alt": "Pool patio",
+    "aspect": 0.75,
+    "src": {
+      "w400": "pool-patio-02-400w.webp",
+      "w800": "pool-patio-02-800w.webp",
+      "w1600": "pool-patio-02-1600w.webp",
+      "jpg": "pool-patio-02-1600w.jpg"
+    }
+  },
+  {
+    "id": "pool-patio-03",
+    "cat": "pool",
+    "alt": "Pool patio",
+    "aspect": 0.75,
+    "src": {
+      "w400": "pool-patio-03-400w.webp",
+      "w800": "pool-patio-03-800w.webp",
+      "w1600": "pool-patio-03-1600w.webp",
+      "jpg": "pool-patio-03-1600w.jpg"
+    }
+  },
+  {
+    "id": "pool-patio-04",
+    "cat": "pool",
+    "alt": "Pool patio",
+    "aspect": 0.5604,
+    "src": {
+      "w400": "pool-patio-04-400w.webp",
+      "w800": "pool-patio-04-800w.webp",
+      "w1600": "pool-patio-04-1600w.webp",
+      "jpg": "pool-patio-04-1600w.jpg"
+    }
+  },
+  {
+    "id": "pool-patio-05",
+    "cat": "pool",
+    "alt": "Pool patio",
+    "aspect": 0.5713,
+    "src": {
+      "w400": "pool-patio-05-400w.webp",
+      "w800": "pool-patio-05-800w.webp",
+      "w1600": "pool-patio-05-1600w.webp",
+      "jpg": "pool-patio-05-1600w.jpg"
+    }
+  },
+  {
+    "id": "pool-patio-06-detail",
+    "cat": "pool",
+    "alt": "Pool coping detail",
+    "aspect": 0.75,
+    "src": {
+      "w400": "pool-patio-06-detail-400w.webp",
+      "w800": "pool-patio-06-detail-800w.webp",
+      "w1600": "pool-patio-06-detail-1600w.webp",
+      "jpg": "pool-patio-06-detail-1600w.jpg"
+    }
+  },
+  {
+    "id": "pool-patio-07-curved",
+    "cat": "pool",
+    "alt": "Curved pool patio",
+    "aspect": 0.75,
+    "src": {
+      "w400": "pool-patio-07-curved-400w.webp",
+      "w800": "pool-patio-07-curved-800w.webp",
+      "w1600": "pool-patio-07-curved-1600w.webp",
+      "jpg": "pool-patio-07-curved-1600w.jpg"
+    }
+  },
+  {
+    "id": "pool-patio-08",
+    "cat": "pool",
+    "alt": "Pool patio",
+    "aspect": 0.75,
+    "src": {
+      "w400": "pool-patio-08-400w.webp",
+      "w800": "pool-patio-08-800w.webp",
+      "w1600": "pool-patio-08-1600w.webp",
+      "jpg": "pool-patio-08-1600w.jpg"
+    }
+  },
+  {
+    "id": "pool-patio-09-curved",
+    "cat": "pool",
+    "alt": "Curved pool patio",
+    "aspect": 0.75,
+    "src": {
+      "w400": "pool-patio-09-curved-400w.webp",
+      "w800": "pool-patio-09-curved-800w.webp",
+      "w1600": "pool-patio-09-curved-1600w.webp",
+      "jpg": "pool-patio-09-curved-1600w.jpg"
+    }
+  },
+  {
+    "id": "patio-02-bluestone",
+    "cat": "patio",
+    "alt": "Bluestone patio",
+    "aspect": 1.3333,
+    "src": {
+      "w400": "patio-02-bluestone-400w.webp",
+      "w800": "patio-02-bluestone-800w.webp",
+      "w1600": "patio-02-bluestone-1600w.webp",
+      "jpg": "patio-02-bluestone-1600w.jpg"
+    }
+  },
+  {
+    "id": "patio-05-firepit",
+    "cat": "patio",
+    "alt": "Patio with firepit",
+    "aspect": 0.7501,
+    "src": {
+      "w400": "patio-05-firepit-400w.webp",
+      "w800": "patio-05-firepit-800w.webp",
+      "w1600": "patio-05-firepit-1600w.webp",
+      "jpg": "patio-05-firepit-1600w.jpg"
+    }
+  },
+  {
+    "id": "patio-06-bluestone",
+    "cat": "patio",
+    "alt": "Bluestone patio",
+    "aspect": 0.7501,
+    "src": {
+      "w400": "patio-06-bluestone-400w.webp",
+      "w800": "patio-06-bluestone-800w.webp",
+      "w1600": "patio-06-bluestone-1600w.webp",
+      "jpg": "patio-06-bluestone-1600w.jpg"
+    }
+  },
+  {
+    "id": "patio-07-firepit-wall",
+    "cat": "patio",
+    "alt": "Firepit and sitting wall",
+    "aspect": 0.7501,
+    "src": {
+      "w400": "patio-07-firepit-wall-400w.webp",
+      "w800": "patio-07-firepit-wall-800w.webp",
+      "w1600": "patio-07-firepit-wall-1600w.webp",
+      "jpg": "patio-07-firepit-wall-1600w.jpg"
+    }
+  },
+  {
+    "id": "patio-09-stone-wall",
+    "cat": "patio",
+    "alt": "Patio with stone wall",
+    "aspect": 0.75,
+    "src": {
+      "w400": "patio-09-stone-wall-400w.webp",
+      "w800": "patio-09-stone-wall-800w.webp",
+      "w1600": "patio-09-stone-wall-1600w.webp",
+      "jpg": "patio-09-stone-wall-1600w.jpg"
+    }
+  },
+  {
+    "id": "patio-10-firepit-wall",
+    "cat": "patio",
+    "alt": "Firepit and sitting wall",
+    "aspect": 0.75,
+    "src": {
+      "w400": "patio-10-firepit-wall-400w.webp",
+      "w800": "patio-10-firepit-wall-800w.webp",
+      "w1600": "patio-10-firepit-wall-1600w.webp",
+      "jpg": "patio-10-firepit-wall-1600w.jpg"
+    }
+  },
+  {
+    "id": "patio-11-flagstone",
+    "cat": "patio",
+    "alt": "Flagstone patio",
+    "aspect": 0.75,
+    "src": {
+      "w400": "patio-11-flagstone-400w.webp",
+      "w800": "patio-11-flagstone-800w.webp",
+      "w1600": "patio-11-flagstone-1600w.webp",
+      "jpg": "patio-11-flagstone-1600w.jpg"
+    }
+  },
+  {
+    "id": "patio-15-bluestone-bowl",
+    "cat": "patio",
+    "alt": "Bluestone patio with firepit bowl",
+    "aspect": 0.75,
+    "src": {
+      "w400": "patio-15-bluestone-bowl-400w.webp",
+      "w800": "patio-15-bluestone-bowl-800w.webp",
+      "w1600": "patio-15-bluestone-bowl-1600w.webp",
+      "jpg": "patio-15-bluestone-bowl-1600w.jpg"
+    }
+  },
+  {
+    "id": "patio-16-firepit-wall",
+    "cat": "patio",
+    "alt": "Firepit and sitting wall",
+    "aspect": 0.75,
+    "src": {
+      "w400": "patio-16-firepit-wall-400w.webp",
+      "w800": "patio-16-firepit-wall-800w.webp",
+      "w1600": "patio-16-firepit-wall-1600w.webp",
+      "jpg": "patio-16-firepit-wall-1600w.jpg"
+    }
+  },
+  {
+    "id": "patio-17-curved-edge",
+    "cat": "patio",
+    "alt": "Curved-edge patio",
+    "aspect": 0.5625,
+    "src": {
+      "w400": "patio-17-curved-edge-400w.webp",
+      "w800": "patio-17-curved-edge-800w.webp",
+      "w1600": "patio-17-curved-edge-1600w.webp",
+      "jpg": "patio-17-curved-edge-1600w.jpg"
+    }
+  },
+  {
+    "id": "patio-19-firepit",
+    "cat": "patio",
+    "alt": "Patio with firepit",
+    "aspect": 0.75,
+    "src": {
+      "w400": "patio-19-firepit-400w.webp",
+      "w800": "patio-19-firepit-800w.webp",
+      "w1600": "patio-19-firepit-1600w.webp",
+      "jpg": "patio-19-firepit-1600w.jpg"
+    }
+  },
+  {
+    "id": "patio-20-light-paver",
+    "cat": "patio",
+    "alt": "Light paver patio",
+    "aspect": 1.3331,
+    "src": {
+      "w400": "patio-20-light-paver-400w.webp",
+      "w800": "patio-20-light-paver-800w.webp",
+      "w1600": "patio-20-light-paver-1600w.webp",
+      "jpg": "patio-20-light-paver-1600w.jpg"
+    }
+  },
+  {
+    "id": "walkway-02",
+    "cat": "walkway",
+    "alt": "Paver walkway",
+    "aspect": 1.3333,
+    "src": {
+      "w400": "walkway-02-400w.webp",
+      "w800": "walkway-02-800w.webp",
+      "w1600": "walkway-02-1600w.webp",
+      "jpg": "walkway-02-1600w.jpg"
+    }
+  },
+  {
+    "id": "walkway-03-curved-granite-border",
+    "cat": "walkway",
+    "alt": "Curved walkway with granite border",
+    "aspect": 0.75,
+    "src": {
+      "w400": "walkway-03-curved-granite-border-400w.webp",
+      "w800": "walkway-03-curved-granite-border-800w.webp",
+      "w1600": "walkway-03-curved-granite-border-1600w.webp",
+      "jpg": "walkway-03-curved-granite-border-1600w.jpg"
+    }
+  },
+  {
+    "id": "walkway-07-granite-border",
+    "cat": "walkway",
+    "alt": "Paver walkway with granite border",
+    "aspect": 1.3333,
+    "src": {
+      "w400": "walkway-07-granite-border-400w.webp",
+      "w800": "walkway-07-granite-border-800w.webp",
+      "w1600": "walkway-07-granite-border-1600w.webp",
+      "jpg": "walkway-07-granite-border-1600w.jpg"
+    }
+  },
+  {
+    "id": "walkway-08-extra",
+    "cat": "walkway",
+    "alt": "Paver walkway",
+    "aspect": 1.7778,
+    "src": {
+      "w400": "walkway-08-extra-400w.webp",
+      "w800": "walkway-08-extra-800w.webp",
+      "w1600": "walkway-08-extra-1600w.webp",
+      "jpg": "walkway-08-extra-1600w.jpg"
+    }
+  },
+  {
+    "id": "walkway-09-extra",
+    "cat": "walkway",
+    "alt": "Paver walkway",
+    "aspect": 1.3333,
+    "src": {
+      "w400": "walkway-09-extra-400w.webp",
+      "w800": "walkway-09-extra-800w.webp",
+      "w1600": "walkway-09-extra-1600w.webp",
+      "jpg": "walkway-09-extra-1600w.jpg"
+    }
+  },
+  {
+    "id": "walkway-11-extra",
+    "cat": "walkway",
+    "alt": "Paver walkway",
+    "aspect": 1.3333,
+    "src": {
+      "w400": "walkway-11-extra-400w.webp",
+      "w800": "walkway-11-extra-800w.webp",
+      "w1600": "walkway-11-extra-1600w.webp",
+      "jpg": "walkway-11-extra-1600w.jpg"
+    }
+  },
+  {
+    "id": "walkway-12-extra",
+    "cat": "walkway",
+    "alt": "Paver walkway",
+    "aspect": 1.3333,
+    "src": {
+      "w400": "walkway-12-extra-400w.webp",
+      "w800": "walkway-12-extra-800w.webp",
+      "w1600": "walkway-12-extra-1600w.webp",
+      "jpg": "walkway-12-extra-1600w.jpg"
+    }
+  },
+  {
+    "id": "stair-01-bluestone-landing",
+    "cat": "walkway",
+    "alt": "Bluestone landing and steps",
+    "aspect": 1.3331,
+    "src": {
+      "w400": "stair-01-bluestone-landing-400w.webp",
+      "w800": "stair-01-bluestone-landing-800w.webp",
+      "w1600": "stair-01-bluestone-landing-1600w.webp",
+      "jpg": "stair-01-bluestone-landing-1600w.jpg"
+    }
+  },
+  {
+    "id": "stair-02-block-tiered",
+    "cat": "walkway",
+    "alt": "Tiered block steps",
+    "aspect": 1.3333,
+    "src": {
+      "w400": "stair-02-block-tiered-400w.webp",
+      "w800": "stair-02-block-tiered-800w.webp",
+      "w1600": "stair-02-block-tiered-1600w.webp",
+      "jpg": "stair-02-block-tiered-1600w.jpg"
+    }
+  },
+  {
+    "id": "stair-03-concrete-bluestone",
+    "cat": "walkway",
+    "alt": "Concrete and bluestone steps",
+    "aspect": 1.7778,
+    "src": {
+      "w400": "stair-03-concrete-bluestone-400w.webp",
+      "w800": "stair-03-concrete-bluestone-800w.webp",
+      "w1600": "stair-03-concrete-bluestone-1600w.webp",
+      "jpg": "stair-03-concrete-bluestone-1600w.jpg"
+    }
+  },
+  {
+    "id": "retaining-01-tiered-sunset",
+    "cat": "retaining",
+    "alt": "Tiered retaining wall at sunset",
+    "aspect": 0.75,
+    "src": {
+      "w400": "retaining-01-tiered-sunset-400w.webp",
+      "w800": "retaining-01-tiered-sunset-800w.webp",
+      "w1600": "retaining-01-tiered-sunset-1600w.webp",
+      "jpg": "retaining-01-tiered-sunset-1600w.jpg"
+    }
+  },
+  {
+    "id": "retaining-03-autumn-tiered",
+    "cat": "retaining",
+    "alt": "Tiered retaining wall in autumn",
+    "aspect": 0.75,
+    "src": {
+      "w400": "retaining-03-autumn-tiered-400w.webp",
+      "w800": "retaining-03-autumn-tiered-800w.webp",
+      "w1600": "retaining-03-autumn-tiered-1600w.webp",
+      "jpg": "retaining-03-autumn-tiered-1600w.jpg"
+    }
+  },
+  {
+    "id": "retaining-05-granite-cap-detail",
+    "cat": "retaining",
+    "alt": "Granite cap detail",
+    "aspect": 0.75,
+    "src": {
+      "w400": "retaining-05-granite-cap-detail-400w.webp",
+      "w800": "retaining-05-granite-cap-detail-800w.webp",
+      "w1600": "retaining-05-granite-cap-detail-1600w.webp",
+      "jpg": "retaining-05-granite-cap-detail-1600w.jpg"
+    }
+  },
+  {
+    "id": "retaining-08-wall-stairs",
+    "cat": "retaining",
+    "alt": "Retaining wall with built-in stairs",
+    "aspect": 0.75,
+    "src": {
+      "w400": "retaining-08-wall-stairs-400w.webp",
+      "w800": "retaining-08-wall-stairs-800w.webp",
+      "w1600": "retaining-08-wall-stairs-1600w.webp",
+      "jpg": "retaining-08-wall-stairs-1600w.jpg"
+    }
+  },
+  {
+    "id": "retaining-09-black-cap-detail",
+    "cat": "retaining",
+    "alt": "Black cap detail",
+    "aspect": 0.75,
+    "src": {
+      "w400": "retaining-09-black-cap-detail-400w.webp",
+      "w800": "retaining-09-black-cap-detail-800w.webp",
+      "w1600": "retaining-09-black-cap-detail-1600w.webp",
+      "jpg": "retaining-09-black-cap-detail-1600w.jpg"
+    }
+  },
+  {
+    "id": "retaining-10-autumn-daytime",
+    "cat": "retaining",
+    "alt": "Curved retaining wall in autumn",
+    "aspect": 0.75,
+    "src": {
+      "w400": "retaining-10-autumn-daytime-400w.webp",
+      "w800": "retaining-10-autumn-daytime-800w.webp",
+      "w1600": "retaining-10-autumn-daytime-1600w.webp",
+      "jpg": "retaining-10-autumn-daytime-1600w.jpg"
+    }
+  },
+  {
+    "id": "retaining-11-dusk-lights",
+    "cat": "retaining",
+    "alt": "Retaining wall at dusk with lights",
+    "aspect": 1.3333,
+    "src": {
+      "w400": "retaining-11-dusk-lights-400w.webp",
+      "w800": "retaining-11-dusk-lights-800w.webp",
+      "w1600": "retaining-11-dusk-lights-1600w.webp",
+      "jpg": "retaining-11-dusk-lights-1600w.jpg"
+    }
+  },
+  {
+    "id": "retaining-13-step-light-detail",
+    "cat": "retaining",
+    "alt": "Retaining wall with step lights at night",
+    "aspect": 0.75,
+    "src": {
+      "w400": "retaining-13-step-light-detail-400w.webp",
+      "w800": "retaining-13-step-light-detail-800w.webp",
+      "w1600": "retaining-13-step-light-detail-1600w.webp",
+      "jpg": "retaining-13-step-light-detail-1600w.jpg"
+    }
+  },
+  {
+    "id": "veneer-01-corner-context",
+    "cat": "veneer",
+    "alt": "Stone veneer corner",
+    "aspect": 0.75,
+    "src": {
+      "w400": "veneer-01-corner-context-400w.webp",
+      "w800": "veneer-01-corner-context-800w.webp",
+      "w1600": "veneer-01-corner-context-1600w.webp",
+      "jpg": "veneer-01-corner-context-1600w.jpg"
+    }
+  },
+  {
+    "id": "veneer-02-warm-tones-detail",
+    "cat": "veneer",
+    "alt": "Stone veneer detail",
+    "aspect": 0.75,
+    "src": {
+      "w400": "veneer-02-warm-tones-detail-400w.webp",
+      "w800": "veneer-02-warm-tones-detail-800w.webp",
+      "w1600": "veneer-02-warm-tones-detail-1600w.webp",
+      "jpg": "veneer-02-warm-tones-detail-1600w.jpg"
+    }
+  },
+  {
+    "id": "veneer-03-facade-windows",
+    "cat": "veneer",
+    "alt": "Stone veneer facade",
+    "aspect": 0.75,
+    "src": {
+      "w400": "veneer-03-facade-windows-400w.webp",
+      "w800": "veneer-03-facade-windows-800w.webp",
+      "w1600": "veneer-03-facade-windows-1600w.webp",
+      "jpg": "veneer-03-facade-windows-1600w.jpg"
+    }
+  },
+  {
+    "id": "veneer-04-foundation-band",
+    "cat": "veneer",
+    "alt": "Stone veneer foundation band",
+    "aspect": 0.75,
+    "src": {
+      "w400": "veneer-04-foundation-band-400w.webp",
+      "w800": "veneer-04-foundation-band-800w.webp",
+      "w1600": "veneer-04-foundation-band-1600w.webp",
+      "jpg": "veneer-04-foundation-band-1600w.jpg"
+    }
+  },
+  {
+    "id": "veneer-05-chimney-fireplace",
+    "cat": "veneer",
+    "alt": "Stone veneer chimney and fireplace",
+    "aspect": 0.75,
+    "src": {
+      "w400": "veneer-05-chimney-fireplace-400w.webp",
+      "w800": "veneer-05-chimney-fireplace-800w.webp",
+      "w1600": "veneer-05-chimney-fireplace-1600w.webp",
+      "jpg": "veneer-05-chimney-fireplace-1600w.jpg"
+    }
+  }
+]
