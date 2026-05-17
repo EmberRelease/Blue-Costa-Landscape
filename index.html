@@ -10,12 +10,12 @@
 :root {
   --bg:#f4efe8; --surface:#fbf8f2; --surface-2:#efe8dd; --surface-3:#e8e0d2; --line:rgba(31,27,22,.11); --text:#1f1b16; --muted:#6b645b; --faint:#9a9389; --blue:#0d79c2; --green:#09ad4b; --shadow:0 24px 70px rgba(24,22,19,.08); --shadow-lg:0 40px 100px rgba(24,22,19,.12);
   --space-2:.5rem; --space-3:.75rem; --space-4:1rem; --space-5:1.25rem; --space-6:1.5rem; --space-8:2rem; --space-10:2.5rem; --space-12:3rem; --space-16:4rem; --space-20:5rem; --space-24:6rem; --space-32:8rem;
-  --text-xs:clamp(.95rem,.9rem + .2vw,1.02rem); --text-sm:clamp(1.02rem,.96rem + .25vw,1.12rem); --text-base:clamp(1.12rem,1.04rem + .3vw,1.28rem); --text-lg:clamp(1.4rem,1.16rem + .75vw,1.9rem); --text-xl:clamp(2.1rem,1.5rem + 1.5vw,3.2rem); --text-2xl:clamp(3.4rem,2.1rem + 4.2vw,7rem); --text-hero:clamp(4.2rem,2.3rem + 6.5vw,8.5rem);
+  --text-xs:clamp(.85rem,.82rem + .15vw,.92rem); --text-sm:clamp(.94rem,.9rem + .2vw,1.02rem); --text-base:clamp(1.04rem,.99rem + .25vw,1.18rem); --text-lg:clamp(1.2rem,1.05rem + .55vw,1.55rem); --text-xl:clamp(1.7rem,1.3rem + 1.2vw,2.55rem); --text-2xl:clamp(2.6rem,1.85rem + 3.2vw,5.4rem); --text-hero:clamp(3.2rem,2.05rem + 5vw,6.6rem);
   --radius-sm:.5rem; --radius-md:1rem; --radius-lg:1.5rem; --radius-xl:2rem; --font-body:'General Sans', -apple-system, sans-serif; --font-display:'Zodiak', Georgia, serif;
 }
 *{box-sizing:border-box;margin:0;padding:0} html{scroll-behavior:smooth;scroll-padding-top:110px} body{font-family:var(--font-body);background:var(--bg);color:var(--text);font-size:var(--text-base);line-height:1.6;-webkit-font-smoothing:antialiased} img{display:block;max-width:100%;height:auto} a{color:inherit;text-decoration:none} button{font:inherit;cursor:pointer}
 .container{width:min(1280px,calc(100% - 2rem));margin:0 auto} .narrow{width:min(920px,calc(100% - 2rem));margin:0 auto} [id]{scroll-margin-top:110px}
-.site-header{position:sticky;top:0;z-index:100;background:rgba(244,239,232,.92);backdrop-filter:blur(16px);border-bottom:1px solid var(--line)} .header-inner{display:flex;justify-content:space-between;align-items:center;gap:1.2rem;padding:1.1rem 0} .brand{display:inline-flex;align-items:center;text-decoration:none} .brand svg{width:100%;height:auto}.brand--textonly{width:auto;max-width:100%}.brand-stack{display:flex;flex-direction:column;line-height:1}.brand-title{font-family:Arial Black, Impact, sans-serif;font-size:clamp(2rem,3.2vw,3rem);font-weight:900;color:#1179bf;letter-spacing:-0.02em}.brand-subtitle{margin-top:.18rem;font-family:Arial Narrow, Arial, Helvetica, sans-serif;font-size:clamp(.82rem,1.05vw,1.18rem);font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#08ab4b}.brand--textonly img,.brand--textonly svg{display:none!important} .nav{display:flex;gap:1.6rem;align-items:center} .nav a{font-size:var(--text-sm);font-weight:500;color:var(--muted);transition:color .18s ease} .nav a:hover{color:var(--text)} .nav .cta{padding:.95rem 1.4rem;border-radius:999px;background:var(--text);color:#fff;font-weight:600;transition:background .18s ease} .nav .cta:hover{background:#000}
+.site-header{position:sticky;top:0;z-index:100;background:rgba(244,239,232,.92);backdrop-filter:blur(16px);border-bottom:1px solid var(--line)} .header-inner{display:flex;justify-content:space-between;align-items:center;gap:1.2rem;padding:1.1rem 0} .brand{display:inline-flex;align-items:center;text-decoration:none} .brand svg{width:100%;height:auto}.brand--textonly{width:auto;max-width:100%}.brand-stack{display:flex;flex-direction:column;line-height:1}.brand-title{font-family:Arial Black, Impact, sans-serif;font-size:clamp(1.45rem,1.1rem + 1.4vw,2.4rem);font-weight:900;color:#1179bf;letter-spacing:-0.02em;line-height:1}.brand-subtitle{margin-top:.22rem;font-family:Arial Narrow, Arial, Helvetica, sans-serif;font-size:clamp(.62rem,.55rem + .25vw,.86rem);font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#08ab4b;white-space:nowrap}.brand--textonly img,.brand--textonly svg{display:none!important} .nav{display:flex;gap:1.6rem;align-items:center} .nav a{font-size:var(--text-sm);font-weight:500;color:var(--muted);transition:color .18s ease} .nav a:hover{color:var(--text)} .nav .cta{padding:.95rem 1.4rem;border-radius:999px;background:var(--text);color:#fff;font-weight:600;transition:background .18s ease} .nav .cta:hover{background:#000}
 .hero{padding:clamp(2.5rem,5vw,5rem) 0 var(--space-32)} .hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(2rem,4vw,4rem);align-items:center} .eyebrow{font-size:var(--text-sm);text-transform:uppercase;letter-spacing:.18em;color:var(--muted);margin-bottom:var(--space-5);font-weight:600}
 .hero h1{font-family:var(--font-display);font-weight:500;font-size:var(--text-hero);line-height:.9;letter-spacing:-.055em;max-width:9ch;margin:0 0 var(--space-8);background:linear-gradient(135deg,var(--text) 0%,var(--muted) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text} .hero-copy{max-width:48ch;font-size:var(--text-lg);line-height:1.5;color:var(--muted);margin:0 0 var(--space-10)} .actions{display:flex;gap:1.2rem;flex-wrap:wrap} .button{display:inline-flex;align-items:center;justify-content:center;padding:1.1rem 1.6rem;border-radius:999px;font-size:var(--text-sm);font-weight:600;transition:all .2s ease} .button.primary{background:var(--text);color:#fff;box-shadow:0 4px 16px rgba(31,27,22,.15)} .button.primary:hover{background:#000;transform:translateY(-2px);box-shadow:0 8px 24px rgba(31,27,22,.2)} .button.secondary{border:1.5px solid var(--line);background:var(--surface)} .button.secondary:hover{border-color:var(--text);background:#fff}
 .hero-visual{position:relative} .hero-media{border-radius:var(--radius-xl);overflow:hidden;box-shadow:var(--shadow-lg)} .hero-media img{width:100%;aspect-ratio:4/5;object-fit:cover} .hero-badge{position:absolute;bottom:1.5rem;left:1.5rem;background:rgba(251,248,242,.96);backdrop-filter:blur(12px);padding:1.1rem 1.3rem;border-radius:1.2rem;border:1px solid rgba(31,27,22,.1);box-shadow:0 8px 24px rgba(31,27,22,.12)} .hero-badge strong{display:block;font-size:var(--text-lg);margin-bottom:.2rem;color:var(--text)} .hero-badge span{color:var(--muted);font-size:var(--text-sm)}
@@ -33,7 +33,7 @@
 .footer{background:var(--surface-2);padding:var(--space-12) 0;border-top:1px solid var(--line);color:var(--muted);text-align:center;font-size:var(--text-sm)}
 @media (max-width:1024px){.hero-grid,.statement-grid,.before-after,.project-grid,.testimonial-showcase,.contact-layout,.services-showcase,.capabilities-grid,.process-steps,.form-row{grid-template-columns:1fr} .nav a:not(.cta){display:none} .trust-grid{grid-template-columns:repeat(2,1fr)}}
 
-.nav-phone{display:inline-flex!important;align-items:center;justify-content:center;padding:.78rem 1rem;border:1px solid rgba(17,121,191,.22);border-radius:999px;color:var(--text)!important;text-decoration:none;background:#fff;box-shadow:0 6px 18px rgba(17,121,191,.08);font-size:.95rem;font-weight:700;white-space:nowrap}.nav-phone:hover{color:var(--blue)!important;border-color:rgba(17,121,191,.4)}
+.nav-phone{display:inline-flex!important;align-items:center;justify-content:center;padding:.55rem .9rem;border:1px solid rgba(17,121,191,.18);border-radius:999px;color:var(--text)!important;text-decoration:none;background:#fff;box-shadow:0 2px 8px rgba(17,121,191,.05);font-size:.85rem;font-weight:600;white-space:nowrap;letter-spacing:-.01em}.nav-phone:hover{color:var(--blue)!important;border-color:rgba(17,121,191,.4)}
 .hero-meta{margin-top:1rem;font-size:.98rem;color:var(--muted)}
 .hero-meta a{color:inherit;font-weight:700;text-decoration:none}
 .trust-strip{padding:1rem 0;background:#f4f8fb;border-top:1px solid rgba(17,121,191,.08);border-bottom:1px solid rgba(17,121,191,.08)}
@@ -44,8 +44,8 @@
 .footer-links{display:flex;flex-wrap:wrap;gap:1rem 1.25rem}
 .footer-links a{color:#dbe7ef;text-decoration:none}
 @media (max-width:900px){.footer-inner{flex-direction:column}.nav-phone{order:3}}
-@media (max-width:680px){.site-header .header-inner{align-items:flex-start;gap:.9rem}.site-header .nav{width:100%;display:flex;flex-wrap:wrap;gap:.6rem .55rem}.site-header .nav-phone{padding:.62rem .8rem;font-size:.82rem;letter-spacing:-.01em}.site-header .cta{padding:.78rem .92rem;font-size:.88rem}}
-@media (max-width:420px){.site-header .nav{display:grid;grid-template-columns:1fr 1fr;align-items:stretch}.site-header .nav a{justify-content:center;text-align:center}.site-header .nav-phone{grid-column:1 / -1;width:100%;font-size:.95rem;padding:.72rem .9rem}}
+@media (max-width:680px){.site-header .header-inner{align-items:center;gap:.75rem;padding:.85rem 0}.site-header .nav{width:auto;display:flex;flex-wrap:nowrap;gap:.5rem}.site-header .nav a:not(.nav-phone):not(.cta){display:none}.site-header .nav-phone{padding:.5rem .75rem;font-size:.78rem}.site-header .cta{padding:.55rem .85rem;font-size:.78rem}}
+@media (max-width:420px){.site-header .nav{gap:.4rem}.site-header .cta{display:none}.site-header .nav-phone{font-size:.82rem;padding:.5rem .8rem}}
 
 
 .why-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1rem;margin-top:2rem}
@@ -69,17 +69,20 @@
 .form-success a{color:inherit;font-weight:700}
 
 
-.teaser-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1.2rem;margin-bottom:2.5rem}
-@media(min-width:900px){.teaser-grid{grid-template-columns:repeat(4,1fr);grid-auto-rows:minmax(220px,auto)}.teaser-large{grid-column:span 2;grid-row:span 2}}
-.teaser-tile{position:relative;overflow:hidden;border-radius:var(--radius-lg);background:var(--surface-3);aspect-ratio:4/3;display:block;box-shadow:var(--shadow);transition:transform .4s cubic-bezier(.22,1,.36,1), box-shadow .4s ease}
-.teaser-large{aspect-ratio:auto;min-height:280px}
-@media(min-width:900px){.teaser-large{aspect-ratio:auto;min-height:0;height:100%}}
-.teaser-tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .8s cubic-bezier(.22,1,.36,1)}
-.teaser-tile:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg)}
-.teaser-tile:hover img{transform:scale(1.05)}
-.teaser-label{position:absolute;left:1rem;bottom:1rem;background:rgba(251,248,242,.95);backdrop-filter:blur(8px);padding:.55rem 1rem;border-radius:.7rem;font-weight:600;font-size:var(--text-xs);letter-spacing:.05em;color:var(--text);border:1px solid rgba(31,27,22,.08)}
-.portfolio-cta{text-align:center;margin-top:1rem}
-.portfolio-cta .button{display:inline-flex}
+.teaser-grid{display:grid;grid-template-columns:1fr;gap:2.25rem;margin-bottom:2.5rem}
+@media(min-width:720px){.teaser-grid{grid-template-columns:repeat(2,1fr);gap:2rem 1.6rem}}
+@media(min-width:1024px){.teaser-grid{grid-template-columns:repeat(3,1fr);gap:2.5rem 1.8rem}.teaser-large{grid-column:span 2}.teaser-large .teaser-media{aspect-ratio:16/10}}
+.teaser-tile{display:block;text-decoration:none;color:inherit;transition:opacity .3s ease}
+.teaser-tile:hover{opacity:.86}
+.teaser-media{position:relative;overflow:hidden;background:var(--surface-3);aspect-ratio:4/3;border-radius:2px}
+.teaser-media img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform 1.1s cubic-bezier(.22,1,.36,1)}
+.teaser-tile:hover .teaser-media img{transform:scale(1.04)}
+.teaser-caption{padding-top:.95rem;display:flex;flex-direction:column;gap:.3rem}
+.teaser-eyebrow{font-size:.7rem;font-weight:600;text-transform:uppercase;letter-spacing:.22em;color:var(--muted)}
+.teaser-name{font-family:var(--font-display);font-weight:400;font-size:clamp(1.25rem,1.05rem + .55vw,1.65rem);line-height:1.15;letter-spacing:-.015em;color:var(--text)}
+.portfolio-cta{text-align:center;margin-top:1.5rem;padding-top:2rem;border-top:1px solid var(--line)}
+.portfolio-cta a{display:inline-flex;align-items:center;gap:.5rem;font-family:var(--font-body);font-size:var(--text-sm);font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--text);border-bottom:1px solid var(--text);padding-bottom:.35rem;transition:gap .25s ease,color .2s ease}
+.portfolio-cta a:hover{gap:.85rem;color:var(--blue);border-color:var(--blue)}
 </style>
 </head>
 <body>
@@ -201,48 +204,73 @@
       </div>
       <div class="teaser-grid">
         <a class="teaser-tile teaser-large" href="portfolio.html#retaining" aria-label="See retaining walls in the full portfolio">
-          <img src="photos/optimized/retaining-01-tiered-sunset-800w.webp"
-               srcset="photos/optimized/retaining-01-tiered-sunset-400w.webp 400w, photos/optimized/retaining-01-tiered-sunset-800w.webp 800w, photos/optimized/retaining-01-tiered-sunset-1600w.webp 1600w"
-               sizes="(min-width:900px) 50vw, 100vw"
-               alt="Tiered retaining wall at sunset"
-               loading="lazy" decoding="async">
-          <span class="teaser-label">Retaining Walls</span>
+          <div class="teaser-media">
+            <img src="photos/optimized/retaining-01-tiered-sunset-800w.webp"
+                 srcset="photos/optimized/retaining-01-tiered-sunset-400w.webp 400w, photos/optimized/retaining-01-tiered-sunset-800w.webp 800w, photos/optimized/retaining-01-tiered-sunset-1600w.webp 1600w"
+                 sizes="(min-width:1024px) 66vw, (min-width:720px) 50vw, 100vw"
+                 alt="Tiered retaining wall at sunset"
+                 loading="lazy" decoding="async">
+          </div>
+          <div class="teaser-caption">
+            <span class="teaser-eyebrow">No. 01 &mdash; Structure</span>
+            <span class="teaser-name">Retaining Walls</span>
+          </div>
         </a>
         <a class="teaser-tile" href="portfolio.html#pool" aria-label="See pool patios in the full portfolio">
-          <img src="photos/optimized/pool-patio-07-curved-800w.webp"
-               srcset="photos/optimized/pool-patio-07-curved-400w.webp 400w, photos/optimized/pool-patio-07-curved-800w.webp 800w"
-               sizes="(min-width:900px) 25vw, 50vw"
-               alt="Curved pool patio"
-               loading="lazy" decoding="async">
-          <span class="teaser-label">Pool Patios</span>
+          <div class="teaser-media">
+            <img src="photos/optimized/pool-patio-07-curved-800w.webp"
+                 srcset="photos/optimized/pool-patio-07-curved-400w.webp 400w, photos/optimized/pool-patio-07-curved-800w.webp 800w"
+                 sizes="(min-width:1024px) 33vw, (min-width:720px) 50vw, 100vw"
+                 alt="Curved pool patio"
+                 loading="lazy" decoding="async">
+          </div>
+          <div class="teaser-caption">
+            <span class="teaser-eyebrow">No. 02 &mdash; Leisure</span>
+            <span class="teaser-name">Pool Patios</span>
+          </div>
         </a>
         <a class="teaser-tile" href="portfolio.html#patio" aria-label="See patios in the full portfolio">
-          <img src="photos/optimized/patio-15-bluestone-bowl-800w.webp"
-               srcset="photos/optimized/patio-15-bluestone-bowl-400w.webp 400w, photos/optimized/patio-15-bluestone-bowl-800w.webp 800w"
-               sizes="(min-width:900px) 25vw, 50vw"
-               alt="Bluestone patio with firepit bowl"
-               loading="lazy" decoding="async">
-          <span class="teaser-label">Patios &amp; Sitting Walls</span>
+          <div class="teaser-media">
+            <img src="photos/optimized/patio-15-bluestone-bowl-800w.webp"
+                 srcset="photos/optimized/patio-15-bluestone-bowl-400w.webp 400w, photos/optimized/patio-15-bluestone-bowl-800w.webp 800w"
+                 sizes="(min-width:1024px) 33vw, (min-width:720px) 50vw, 100vw"
+                 alt="Bluestone patio with firepit bowl"
+                 loading="lazy" decoding="async">
+          </div>
+          <div class="teaser-caption">
+            <span class="teaser-eyebrow">No. 03 &mdash; Gathering</span>
+            <span class="teaser-name">Patios &amp; Sitting Walls</span>
+          </div>
         </a>
         <a class="teaser-tile" href="portfolio.html#walkway" aria-label="See walkways in the full portfolio">
-          <img src="photos/optimized/walkway-03-curved-granite-border-800w.webp"
-               srcset="photos/optimized/walkway-03-curved-granite-border-400w.webp 400w, photos/optimized/walkway-03-curved-granite-border-800w.webp 800w"
-               sizes="(min-width:900px) 25vw, 50vw"
-               alt="Curved walkway with granite border"
-               loading="lazy" decoding="async">
-          <span class="teaser-label">Walkways &amp; Stairs</span>
+          <div class="teaser-media">
+            <img src="photos/optimized/walkway-03-curved-granite-border-800w.webp"
+                 srcset="photos/optimized/walkway-03-curved-granite-border-400w.webp 400w, photos/optimized/walkway-03-curved-granite-border-800w.webp 800w"
+                 sizes="(min-width:1024px) 33vw, (min-width:720px) 50vw, 100vw"
+                 alt="Curved walkway with granite border"
+                 loading="lazy" decoding="async">
+          </div>
+          <div class="teaser-caption">
+            <span class="teaser-eyebrow">No. 04 &mdash; Approach</span>
+            <span class="teaser-name">Walkways &amp; Stairs</span>
+          </div>
         </a>
         <a class="teaser-tile" href="portfolio.html#veneer" aria-label="See stone veneer in the full portfolio">
-          <img src="photos/optimized/veneer-05-chimney-fireplace-800w.webp"
-               srcset="photos/optimized/veneer-05-chimney-fireplace-400w.webp 400w, photos/optimized/veneer-05-chimney-fireplace-800w.webp 800w"
-               sizes="(min-width:900px) 25vw, 50vw"
-               alt="Stone veneer chimney and fireplace"
-               loading="lazy" decoding="async">
-          <span class="teaser-label">Stone Veneer</span>
+          <div class="teaser-media">
+            <img src="photos/optimized/veneer-05-chimney-fireplace-800w.webp"
+                 srcset="photos/optimized/veneer-05-chimney-fireplace-400w.webp 400w, photos/optimized/veneer-05-chimney-fireplace-800w.webp 800w"
+                 sizes="(min-width:1024px) 33vw, (min-width:720px) 50vw, 100vw"
+                 alt="Stone veneer chimney and fireplace"
+                 loading="lazy" decoding="async">
+          </div>
+          <div class="teaser-caption">
+            <span class="teaser-eyebrow">No. 05 &mdash; Texture</span>
+            <span class="teaser-name">Stone Veneer</span>
+          </div>
         </a>
       </div>
       <div class="portfolio-cta">
-        <a href="portfolio.html" class="button primary">See the full portfolio &rarr;</a>
+        <a href="portfolio.html">View the full portfolio &rarr;</a>
       </div>
     </div>
   </section>
